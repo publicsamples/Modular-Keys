@@ -4,7 +4,7 @@ Fake piano sounds made with a modular synthesizer.
 
 **Supported Formats:** Logic Sampler, Kontakt, Falcon and SFZ (partial)
 
-**[Download Audio Files](https://github.com/publicsamples/Modular-Noise/releases/tag/1.0)**
+**[Download Audio Files](https://github.com/publicsamples/Modular-Keys/releases/tag/1.0)**
 
 ## **Support this project**
 
